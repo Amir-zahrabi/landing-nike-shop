@@ -1,0 +1,141 @@
+ header{
+   width: auto;
+   height: 200px;
+   background-color: whitesmoke;
+   box-shadow: 30px 30px 80px black;
+   backdrop-filter: blur(30px);
+   margin-bottom: 70px;
+
+ }
+  
+body{
+
+
+
+  background-color: rgba(0, 0, 255, 0.888);
+
+}
+
+ .button1{
+
+   width: 60px;
+   height: 60px;
+   border-radius: 10px;
+   box-shadow: 6px 6px 10px black;
+   margin-left: 100px;
+   margin-top: -80px;
+   
+
+ }
+
+ .button1:hover{
+
+   box-shadow: 8px 8px 12px black;
+ 
+ }
+
+ .welcome{
+
+
+   text-align: center;
+   font-size: 50px;
+   font-style: unset;
+   padding-top: 30px;
+   text-shadow: 3px 3px 30px black;
+
+
+
+ }
+
+ 
+.img{
+
+  width: 300px;
+  border-radius: 20px 20px 0px 0px;
+  height: 300px;
+}
+
+.box{
+
+  width: 300px;
+  height: 400px;
+  border: solid 2px;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  backdrop-filter: blur(30px);
+  box-shadow: 23px 23px 56px black;
+  background-color: rgba(1, 1, 180, 0.708);
+
+
+
+
+}
+
+.box:hover{
+  transform: scale(1.05);
+  transition: transform 0.7s ease;
+  box-shadow:30px 30px 60px ; 
+}
+.wewe{
+ flex-wrap: wrap;
+ display: flex;
+ gap: 280px; 
+
+
+}
+
+.sabad{
+
+ margin-top: -20px;
+ border-radius: 4px;
+ margin-right: 230px;
+ margin-top: -60px;
+ box-shadow: 20px 20px 30px black;
+ width: 50px;
+ height: 30px;
+ 
+
+}
+
+.sabad:hover{
+
+ box-shadow: 6px 6px 10px black;
+   
+}
+
+
+input{
+
+ margin-left: 70%;
+ background-color: aliceblue;
+ height: 30px;
+ border-radius: 20px;
+ border: 2px solid;
+ box-shadow: 10px 14px 23px black;
+ text-align: right;
+   
+}
+
+input:focus{
+
+    box-shadow: 5px 5px 13px black;
+
+
+}
+
+.fa-solid22{
+   
+   border-radius: 50%;
+   width: 30px;
+   height: 30px;
+   margin-left: 10px;
+   box-shadow: 23px 23px 30px black;
+}
+
+.fa-solid22:hover{
+
+
+  box-shadow: 10px 10px 18px black;
+   
+}
