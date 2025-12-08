@@ -354,6 +354,24 @@ input:focus{
 }
 
 
+.box2{
+
+  width: 300px;
+  height: 400px;
+  border: solid 2px;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  backdrop-filter: blur(30px);
+  box-shadow: 23px 23px 56px black;
+  background-color: rgba(1, 1, 180, 0.708);
+
+
+
+
+
+
+}
 
 
 
@@ -372,7 +390,7 @@ header{
 
    
   width: auto;
-  height: 17%;
+  height: 22%;
 
 
 }
@@ -483,12 +501,18 @@ input{
 
 }
 
+
+.box2{
+
+
+  width: 40%;
+  font-size: 1rem;
+
+}
+
+
 .wewe{
-
-
- gap: 2%;
-
-
+   gap: 0.1rem;
 }
 
 
